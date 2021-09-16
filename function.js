@@ -5,6 +5,7 @@ function sum (){
         result += arguments[i];
     }
     console.log(result);
+    
 }
 
 
